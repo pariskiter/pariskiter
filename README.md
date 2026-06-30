@@ -34,6 +34,20 @@ Currently building AI projects, participating in hackathons, and continuously ex
 |------|-------------------|--------|--------|-------|
 | 2025 | 🥇 MSBAI Kaggle Competition – Amazon Recommender System | NYU Stern MSBAi | 1st Place | Top 2 % · 1/37 |
  
+---
+## 💼 Experience & Education
+
+### Experience
+
+| Period | Position |
+|--------|----------|
+| **Apr 2023 – Sep 2023<br>Portico Media · Taipei, Taiwan · On-site** | **Audience Research Analyst** |
+
+### Education
+
+| Period | Education |
+|--------|-----------|
+| **May 2024 – May 2025** | **M.S. in Business Analytics & AI (STEM)**<br>New York University, Leonard N. Stern School of Business |
 
 ---
 ## 🚀 Technical Skills
