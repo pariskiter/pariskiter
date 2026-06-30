@@ -82,43 +82,39 @@ Currently building AI projects, participating in hackathons, and continuously ex
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+## 🚀 Featured Projects
+
+Amazon Recommendation System
+
+Customer Segmentation & Recommendation System
+
+Movie Recommendation System
+
+## 📌 Currently Learning
+
+Google BigQuery
+
+Google Cloud Platform
+
+AWS
+
+LLM Applications
+
 ---
----
-### Programming
-- Python
-- SQL
 
-### Data Analysis
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Data Visualization
+## 📚 Areas of Interest
 
-### Machine Learning
-- Customer Segmentation
-- Recommendation Systems
-- Classification
-- Regression
-- Clustering (K-Means)
-- Principal Component Analysis (PCA)
+• Customer Segmentation
 
-### Data Visualization
-- Tableau
-- Plotly
-- Matplotlib
+• Recommendation Systems
 
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- Excel
+• Predictive Analytics
 
-### Cloud & AI
-- Google BigQuery
-- Google Cloud Platform (Learning)
-- AWS (Learning)
-- LLM Applications (Learning)
+• Business Intelligence
+
+• Machine Learning
+
+• Data Visualization
 
 ---
 
