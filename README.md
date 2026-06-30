@@ -31,7 +31,7 @@ Currently building AI projects, participating in hackathons, and continuously ex
 ## 🏆 Honors & Awards
 
 | Year | Competition/Award | Issuer | Result | Scale |
-|------|-------|-------------|
+|------|-------------------|--------|--------|-------|
 | 2025 | 🥇 MSBAI Kaggle Competition – Amazon Recommender System | NYU Stern MSBAi | 1st Place | Top 2 % · 1/37 |
  
 
