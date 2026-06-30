@@ -17,7 +17,7 @@
 
 I'm Paris Yang 
 
-### Business Analytics & AI @ New York University (STEM)
+### MS in Business Analytics & AI @ New York University (STEM)
 
 📍 Taipei, Taiwan
 
