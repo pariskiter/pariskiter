@@ -52,6 +52,32 @@ Currently building AI projects, participating in hackathons, and continuously ex
 ---
 ## 🚀 Technical Skills
 
+## 🐍Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+## 📊 Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## 🤖 Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
+![K-Means](https://img.shields.io/badge/K--Means-4B8BBE?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-6A5ACD?style=for-the-badge)
+![SVD](https://img.shields.io/badge/SVD-8A2BE2?style=for-the-badge)
+![ALS](https://img.shields.io/badge/ALS-20B2AA?style=for-the-badge)
+![Collaborative Filtering](https://img.shields.io/badge/Collaborative_Filtering-blue?style=for-the-badge)
+![Content-Based Filtering](https://img.shields.io/badge/Content--Based_Filtering-green?style=for-the-badge)
+![Matrix Factorization](https://img.shields.io/badge/Matrix_Factorization-orange?style=for-the-badge)
+![Latent Factor Models](https://img.shields.io/badge/Latent_Factor_Model-brown?style=for-the-badge)
+
+---
 ### Programming
 - Python
 - SQL
