@@ -82,6 +82,7 @@ Currently building AI projects, participating in hackathons, and continuously ex
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+---
 ## 🚀 Featured Projects
 Online Retail customer segmentation & recommender system
 
@@ -93,6 +94,7 @@ Movie Recommender System
 
 Hotai AI Automotive Hackathon *(In Progress)*
 
+---
 ## 📌 Currently Learning
 
 Google BigQuery
@@ -118,8 +120,8 @@ LLM Applications
 • Machine Learning
 
 • Data Visualization
----
 
+---
 ## 🎓 Education
 
 **New York University**  
