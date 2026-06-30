@@ -77,6 +77,12 @@ Currently building AI projects, participating in hackathons, and continuously ex
 ![Matrix Factorization](https://img.shields.io/badge/Matrix_Factorization-orange?style=for-the-badge)
 ![Latent Factor Models](https://img.shields.io/badge/Latent_Factor_Model-brown?style=for-the-badge)
 
+## 📈 Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
 ---
 ### Programming
 - Python
