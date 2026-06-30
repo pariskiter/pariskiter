@@ -83,12 +83,15 @@ Currently building AI projects, participating in hackathons, and continuously ex
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ## 🚀 Featured Projects
+Online Retail customer segmentation & recommender system
 
 Amazon Recommendation System
 
-Customer Segmentation & Recommendation System
+Customer Segmentation & Recommender System
 
-Movie Recommendation System
+Movie Recommender System
+
+Hotai AI Automotive Hackathon *(In Progress)*
 
 ## 📌 Currently Learning
 
@@ -115,19 +118,6 @@ LLM Applications
 • Machine Learning
 
 • Data Visualization
-
----
-
-## 📌 Featured Projects
-
-🛒 Customer Segmentation & Recommendation System
-
-⭐ Amazon Product Review Analysis
-
-🏠 Airbnb Market Analysis
-
-🚗 AI Automotive Hackathon *(In Progress)*
-
 ---
 
 ## 🎓 Education
