@@ -28,7 +28,14 @@ I'm transitioning into Data Analytics and AI, focusing on business analytics, cu
 Currently building AI projects, participating in hackathons, and continuously expanding my skills in cloud technologies and LLM applications.
 
 ---
+## 🏆 Honors & Awards
 
+| Year | Competition/Award | Issuer | Result | Scale |
+|------|-------|-------------|
+| 2025 | 🥇 MSBAI Kaggle Competition – Amazon Recommender System | NYU Stern MSBAi | 1st Place | Top 2 % · 1/37 |
+ 
+
+---
 ## 🚀 Technical Skills
 
 ### Programming
