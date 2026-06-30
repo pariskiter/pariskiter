@@ -23,7 +23,7 @@ I'm Paris Yang
 
 I'm a Business Analytics & AI graduate from New York University with 5 years of experience in media analytics.
 
-I'm transitioning into Data Analytics and AI, focusing on business analytics, customer analytics, machine learning, recommendation systems, and data-driven decision making.
+I'm transitioning into Data Analytics and AI, focusing on business analytics, customer analytics, machine learning, recommender systems, and data-driven decision making.
 
 Currently building AI projects, participating in hackathons, and continuously expanding my skills in cloud technologies and LLM applications.
 
