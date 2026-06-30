@@ -1,16 +1,90 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
+www.linkedin.com/in/paris-yang-90192526a)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pariskiter@gmail.com)
+
+[![Projects](https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pariskiter/Projects)
+
+
 ## Hi there 👋
 
-<!--
-**pariskiter/pariskiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paris Yang 👋
 
-Here are some ideas to get you started:
+### Business Analytics & AI @ New York University (STEM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Taipei, Taiwan
+
+I'm a Business Analytics & AI graduate from New York University with 5 years of experience in media analytics.
+
+I'm transitioning into Data Analytics and AI, focusing on business analytics, customer analytics, machine learning, recommendation systems, and data-driven decision making.
+
+Currently building AI projects, participating in hackathons, and continuously expanding my skills in cloud technologies and LLM applications.
+
+---
+
+## 🚀 Technical Skills
+
+### Programming
+- Python
+- SQL
+
+### Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Visualization
+
+### Machine Learning
+- Customer Segmentation
+- Recommendation Systems
+- Classification
+- Regression
+- Clustering (K-Means)
+- Principal Component Analysis (PCA)
+
+### Data Visualization
+- Tableau
+- Plotly
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- Excel
+
+### Cloud & AI
+- Google BigQuery
+- Google Cloud Platform (Learning)
+- AWS (Learning)
+- LLM Applications (Learning)
+
+---
+
+## 📌 Featured Projects
+
+🛒 Customer Segmentation & Recommendation System
+
+⭐ Amazon Product Review Analysis
+
+🏠 Airbnb Market Analysis
+
+🚗 AI Automotive Hackathon *(In Progress)*
+
+---
+
+## 🎓 Education
+
+**New York University**  
+M.S. Business Analytics & AI (STEM)
+
+**Shih Hsin University**  
+B.A. Radio, Television and Film
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn
+- Email
