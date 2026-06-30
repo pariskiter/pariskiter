@@ -13,9 +13,9 @@
 </p>
 
 
-## Hi there 👋
+## 👋🏻 About Me 
 
-I'm Paris Yang 👋
+I'm Paris Yang 
 
 ### Business Analytics & AI @ New York University (STEM)
 
