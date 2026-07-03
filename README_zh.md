@@ -125,17 +125,7 @@ LLM Applications
 - Business Intelligence
 - Machine Learning
 - Data Visualization
-
----
-
-## 🎓 學歷
-
-**New York University**  
-商業分析與人工智慧碩士（STEM）
-
-**Shih Hsin University**  
-廣播電視電影學士
-
+  
 ---
 
 ## 📫 聯絡方式
