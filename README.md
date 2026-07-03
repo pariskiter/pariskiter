@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="README.md">English</a> | <b>繁體中文</b>
+  🌐 <b>English</b> | <a href="./README_zh.md">繁體中文</a>
 </p>
 
 ## 👋🏻 About Me 
