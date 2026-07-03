@@ -87,7 +87,7 @@ Currently building AI projects, participating in hackathons, and continuously ex
 
 
 ## 🚀 Featured Projects
-Online Retail customer segmentation & recommender system
+[Online Retail customer segmentation & recommender system](https://github.com/pariskiter/Projects/tree/main/Customer%20Segmentation%20%26%20Recommendation%20System)
 
 Amazon Recommendation System
 
