@@ -125,15 +125,6 @@ LLM Applications
 • Data Visualization
 
 ---
-## 🎓 Education
-
-**New York University**  
-M.S. Business Analytics & AI (STEM)
-
-**Shih Hsin University**  
-B.A. Radio, Television and Film
-
----
 
 ## 📫 Connect with Me
 
