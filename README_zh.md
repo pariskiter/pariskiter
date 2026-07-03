@@ -96,7 +96,7 @@
 
 [線上零售客戶分群與推薦系統](https://github.com/pariskiter/Projects/tree/main/Customer%20Segmentation%20%26%20Recommendation%20System)
 
-[Amazon 推薦系統([Kaggle第1名)](https://github.com/pariskiter/Projects/tree/main/NYU)
+[Amazon 推薦系統(Kaggle第1名)](https://github.com/pariskiter/Projects/tree/main/NYU)
 
 [Amazon 商品評論分析推薦系統](https://github.com/pariskiter/Projects/tree/main/Amazon%20Product%20Reviews)
 
