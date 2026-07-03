@@ -46,13 +46,13 @@
 
 | 期間 | 職位 |
 |------|------|
-| **2023 年 4 月 – 2023 年 9 月**<br>台北，台灣 · 現場辦公 | **Audience Research Analyst**<br>[Portico Media](https://www.porticomedia.com/) · 全職 |
+| **2023 年 4 月 – 2023 年 9 月**<br>台北，台灣 · 全職現場 | **受眾分析師**<br>[杰德影音](https://www.porticomedia.com/) · 正職 |
 
 ### 學歷
 
 | 期間 | 學歷 |
 |------|------|
-| **2024 年 5 月 – 2025 年 5 月** | **商業分析與人工智慧碩士（STEM）**<br>[New York University, Leonard N. Stern School of Business](https://www.stern.nyu.edu/) |
+| **2024 年 5 月 – 2025 年 5 月** | **商業分析與人工智慧碩士（STEM）**<br>[紐約大學史登商學院](https://www.stern.nyu.edu/) |
 
 ---
 
