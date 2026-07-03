@@ -137,5 +137,5 @@ B.A. Radio, Television and Film
 
 ## 📫 Connect with Me
 
-- LinkedIn
+- 💼 LinkedIn
 - 📧 Email
