@@ -47,7 +47,7 @@ Currently building AI projects, participating in hackathons, and continuously ex
 
 | Period | Education |
 |--------|-----------|
-| **May 2024 – May 2025** | **M.S. in Business Analytics & AI (STEM)**<br>New York University, Leonard N. Stern School of Business |
+| **May 2024 – May 2025** | **M.S. in Business Analytics & AI (STEM)**<br>[New York University, Leonard N. Stern School of Business](https://www.stern.nyu.edu/) |
 
 ---
 ## 🚀 Technical Skills
