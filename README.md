@@ -89,11 +89,11 @@ Currently building AI projects, participating in hackathons, and continuously ex
 ## 🚀 Featured Projects
 [Online Retail customer segmentation & recommender system](https://github.com/pariskiter/Projects/tree/main/Customer%20Segmentation%20%26%20Recommendation%20System)
 
-Amazon Recommendation System
+[Amazon Recommender System(Kaggle 1st place)](https://github.com/pariskiter/Projects/tree/main/NYU)
 
-Customer Segmentation & Recommender System
+[Amazon Product Reviews Recommender System](https://github.com/pariskiter/Projects/tree/main/Amazon%20Product%20Reviews)
 
-Movie Recommender System
+[IMDb Movie Recommender System](https://github.com/pariskiter/Projects/tree/main/IMDb)
 
 2026 Hotai AI Automotive Hackathon *(In Progress)*
 
