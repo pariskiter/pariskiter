@@ -92,7 +92,7 @@ Customer Segmentation & Recommender System
 
 Movie Recommender System
 
-Hotai AI Automotive Hackathon *(In Progress)*
+2026 Hotai AI Automotive Hackathon *(In Progress)*
 
 
 ## 📌 Currently Learning
