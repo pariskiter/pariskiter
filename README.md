@@ -26,7 +26,7 @@ I'm Paris Yang
 
 I'm a Business Analytics & AI graduate from New York University with 5 years of experience in media analytics.
 
-I'm transitioning into Data Analytics and AI, focusing on business analytics, customer analytics, machine learning, recommender systems, and data-driven decision making.
+I specialized in Data Analytics and AI, focusing on business analytics, customer analytics, machine learning, recommender systems, and data-driven decision making.
 
 Currently building AI projects, participating in hackathons, and continuously expanding my skills in cloud technologies and LLM applications.
 
@@ -87,9 +87,9 @@ Currently building AI projects, participating in hackathons, and continuously ex
 
 
 ## 🚀 Featured Projects
-[Online Retail customer segmentation & recommender system](https://github.com/pariskiter/Projects/tree/main/Customer%20Segmentation%20%26%20Recommendation%20System)
-
 [Amazon Recommender System(Kaggle 1st place)](https://github.com/pariskiter/Projects/tree/main/NYU)
+
+[Online Retail customer segmentation & recommender system](https://github.com/pariskiter/Projects/tree/main/Customer%20Segmentation%20%26%20Recommendation%20System)
 
 [Amazon Product Reviews Recommender System](https://github.com/pariskiter/Projects/tree/main/Amazon%20Product%20Reviews)
 
@@ -138,4 +138,4 @@ B.A. Radio, Television and Film
 ## 📫 Connect with Me
 
 - LinkedIn
-- Email
+- 📧 Email
