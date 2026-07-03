@@ -94,13 +94,13 @@
 
 ## 🚀 精選專案
 
-線上零售客戶分群與推薦系統
+[線上零售客戶分群與推薦系統](https://github.com/pariskiter/Projects/tree/main/Customer%20Segmentation%20%26%20Recommendation%20System)
 
-Amazon 推薦系統
+[Amazon 推薦系統([Kaggle第1名)](https://github.com/pariskiter/Projects/tree/main/NYU)
 
-客戶分群與推薦系統
+[Amazon 商品評論分析推薦系統](https://github.com/pariskiter/Projects/tree/main/Amazon%20Product%20Reviews)
 
-電影推薦系統
+[IMDb電影推薦系統](https://github.com/pariskiter/Projects/tree/main/IMDb)
 
 2026 和泰 AI 汽車 Hackathon（進行中）
 
