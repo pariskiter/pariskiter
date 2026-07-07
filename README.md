@@ -48,7 +48,7 @@ Currently building AI projects, participating in hackathons, and continuously ex
 
 | Period | Position |
 |--------|----------|
-| **Apr 2023 – Sep 2023**<br>Taipei, Taiwan · On-site | **Audience Research Analyst**<br>[Portico Media](https://www.porticomedia.com/) · Full-time|
+| **Apr 2023 – Sep 2023**<br>Taipei, Taiwan · On-site | **Social Media Editor | Audience Analytics Focus**<br>[Portico Media](https://www.porticomedia.com/) · Full-time|
 
 ### Education
 
